@@ -1,0 +1,19 @@
+{
+	"RecordedByAccount": "",
+	"RecordedByCharacter": "",
+	"TimeStart": "",
+	"TimeEnd": "",
+	"DurationSeconds": 000,
+	"Players": {
+		{
+			"CharacterName": "",
+			"AccountName": "",
+			"Profession": "",
+			"CondiCleanse": 0,
+			"BoonStrip": 0,
+			"Healing": 0,
+			"Killed": 0,
+			"Downed": 0
+		}
+	}
+}
